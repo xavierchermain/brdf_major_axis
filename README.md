@@ -6,7 +6,7 @@ This repository contains the specular BRDF major axis visualizer referenced in t
 
 **[Anisotropic Specular Image-Based Lighting Based on BRDF Major Axis Sampling](https://xavierchermain.github.io/publications/aniso-ibl)**
 
-*Giovanni Cocco $^{1, 2}$, [Cédric Zanni](https://members.loria.fr/CZanni/) $^{2}$, and [Xavier Chermain](https://xavierchermain.github.io) $^{2}$*
+Giovanni Cocco $^{1}$ $^{2}$, [Cédric Zanni](https://members.loria.fr/CZanni/)$^{2}$, and [Xavier Chermain](https://xavierchermain.github.io)$^{2}$
 
 $^{1}$ University of Milan
 
